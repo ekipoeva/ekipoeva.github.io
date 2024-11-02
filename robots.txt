@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekipoeva.github.io/KyU/sitemap_index.txt
+Sitemap: https://ekipoeva.github.io/NPp/sitemap_index.txt
+Sitemap: https://ekipoeva.github.io/fQP/sitemap_index.txt
+Sitemap: https://ekipoeva.github.io/owj/sitemap_index.txt
